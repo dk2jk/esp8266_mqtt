@@ -1,7 +1,7 @@
 # esp8266_mqtt
 <img src="/node-red/dashboard%20node-red.png" width=250>
 
-Dies ist eine Weiterentwicklung von  **[wetterstation-ESP8266](https://github.com/dk2jk/wetterstation-ESP8266).**
+Dies ist eine Weiterentwicklung der Software von  **[wetterstation-ESP8266](https://github.com/dk2jk/wetterstation-ESP8266).**
 Als Protokoll wird MQTT verwendet. Server ist ein RaspberryPi , auf dem ein Mosquitto- Server und Node-Red läuft.
 Es wird im Gegensatz zum o.a. [Projekt](https://github.com/dk2jk/wetterstation-ESP8266)  kein externer Server wie z.b. Thingspeak benötigt.
 
