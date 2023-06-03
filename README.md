@@ -1,3 +1,4 @@
+![bild](https://github.com/dk2jk/esp8266_mqtt/node-red/dashboard%20node-red.png)
 # esp8266_mqtt
 Dies ist eine Weiterentwicklung von  **[wetterstation-ESP8266](https://github.com/dk2jk/wetterstation-ESP8266).**
 Als Protokoll wird MQTT verwendet. Als Server wird ein RaspberryPi verwendet , auf dem läuft ein Mosquitto- Server
